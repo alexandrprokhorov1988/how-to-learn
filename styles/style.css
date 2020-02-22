@@ -70,7 +70,7 @@
   position: absolute;
   right: 0;
   bottom: 0;
-  z-index: 3; /*1 .header 2.header__square-pic 3.header__main-illustration */
+  z-index: 3;
 }
 
 .header__main-illustration_img {
