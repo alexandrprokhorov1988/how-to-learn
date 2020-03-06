@@ -1,0 +1,13 @@
+.two-columns__link {
+  color: #2F80ED;
+  text-decoration: none;
+  line-height: 1.2;
+  font-size: 18px;
+  font-weight: normal;
+  opacity: 1;
+  transition: opacity .5s ease-out;
+}
+
+.two-columns__link:hover {
+  opacity: .3;
+}
