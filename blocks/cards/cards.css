@@ -1,0 +1,15 @@
+@import url(../cards/__item/cards__item.css);
+@import url(../cards/__image/cards__image.css);
+@import url(../cards/__title/cards__title.css);
+@import url(../cards/__description/cards__description.css);
+
+.cards {
+  display: -ms-grid;
+  display: grid;
+  width: 920px;
+  -ms-grid-columns: 1fr 1fr 1fr;
+  grid-template-columns: repeat(3, 1fr);
+  grid-column-gap: 100px;
+  grid-row-gap: 60px;
+  margin-top: 60px;
+}

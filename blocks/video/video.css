@@ -1,0 +1,23 @@
+@import url(../video/__section-title/video__section-title.css);
+@import url(../video/__iframes/video__iframes.css);
+@import url(../video/__iframe/video__iframe.css);
+
+.video {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  margin-top: 100px;
+  font-size: 0;
+}
+
+
+
+
+

@@ -8,6 +8,8 @@
   font-size: 36px;
   font-weight: normal;
   opacity: 1;
+  -webkit-transition: opacity .5s ease-out;
+  -o-transition: opacity .5s ease-out;
   transition: opacity .5s ease-out;
 }
 

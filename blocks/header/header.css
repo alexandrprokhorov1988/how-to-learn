@@ -3,6 +3,7 @@
 @import url(./__square-pic/header__square-pic.css);
 @import url(./__subtitle/header__subtitle.css);
 @import url(./__title/header__title.css);
+@import url(../rotation/rotation.css);
 
 .header {
   height: 100vh;
@@ -11,9 +12,13 @@
   /* выше установили ограничения для секции */
   background-color: #F2F2F2;
   position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
   z-index: 1;
   overflow: hidden;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
   align-items: center;
 }
 

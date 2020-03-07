@@ -1,0 +1,17 @@
+@import url(../resources/__logo/resources__logo.css);
+@import url(../resources/__logo-zone/resources__logo-zone.css);
+
+.resources {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  margin-top: 100px;
+  margin-bottom: 217px;
+}
