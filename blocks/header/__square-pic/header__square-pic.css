@@ -9,8 +9,8 @@
   -webkit-transform: rotate(-15deg);
       -ms-transform: rotate(-15deg);
           transform: rotate(-15deg);
-  -webkit-animation-name: rotation;
-          animation-name: rotation;
+  -webkit-animation-name: rotation-square;
+          animation-name: rotation-square;
   -webkit-animation-duration: 20s;
           animation-duration: 20s;
   -webkit-animation-timing-function: linear;

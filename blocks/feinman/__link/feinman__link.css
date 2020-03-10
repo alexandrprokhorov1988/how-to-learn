@@ -3,6 +3,9 @@
   position: absolute;
   right: 48px;
   top: 50%;
+  -webkit-transform: translate(0, -100%);
+      -ms-transform: translate(0, -100%);
+          transform: translate(0, -100%); /*линк по центру*/
   color: #1F1F1F;
   line-height: 51px;
   font-size: 36px;

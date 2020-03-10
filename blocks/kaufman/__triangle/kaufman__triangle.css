@@ -7,8 +7,8 @@
   top: 0;
   background-image: url(../../../images/triangle.svg);
   background-size: contain;
-  -webkit-animation-name: rotation;
-          animation-name: rotation;
+  -webkit-animation-name: rotation-triangle;
+          animation-name: rotation-triangle;
   -webkit-animation-duration: 20s;
           animation-duration: 20s;
   -webkit-animation-timing-function: linear;
