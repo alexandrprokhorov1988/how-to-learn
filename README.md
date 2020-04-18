@@ -8,4 +8,4 @@
 В верстке применены **flex**, **grid**, **animation**, **transform** и др. технологии.
 
 #### Инструкция
-* [Ссылка на проект]https://alexandrprokhorov1988.github.io/how-to-learn/.
+* [Ссылка на проект](https://alexandrprokhorov1988.github.io/how-to-learn/)
